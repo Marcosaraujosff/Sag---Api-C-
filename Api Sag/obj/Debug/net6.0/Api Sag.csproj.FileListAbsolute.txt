@@ -1,0 +1,37 @@
+C:\jobs\Api Sag\Api Sag\Api Sag\obj\Debug\net6.0\Api Sag.csproj.AssemblyReference.cache
+C:\jobs\Api Sag\Api Sag\Api Sag\obj\Debug\net6.0\Api Sag.GeneratedMSBuildEditorConfig.editorconfig
+C:\jobs\Api Sag\Api Sag\Api Sag\obj\Debug\net6.0\Api Sag.AssemblyInfoInputs.cache
+C:\jobs\Api Sag\Api Sag\Api Sag\obj\Debug\net6.0\Api Sag.AssemblyInfo.cs
+C:\jobs\Api Sag\Api Sag\Api Sag\obj\Debug\net6.0\Api Sag.csproj.CoreCompileInputs.cache
+C:\jobs\Api Sag\Api Sag\Api Sag\obj\Debug\net6.0\Api Sag.MvcApplicationPartsAssemblyInfo.cs
+C:\jobs\Api Sag\Api Sag\Api Sag\obj\Debug\net6.0\Api Sag.MvcApplicationPartsAssemblyInfo.cache
+C:\jobs\Api Sag\Api Sag\Api Sag\bin\Debug\net6.0\appsettings.Development.json
+C:\jobs\Api Sag\Api Sag\Api Sag\bin\Debug\net6.0\appsettings.json
+C:\jobs\Api Sag\Api Sag\Api Sag\bin\Debug\net6.0\Api Sag.exe
+C:\jobs\Api Sag\Api Sag\Api Sag\bin\Debug\net6.0\Api Sag.deps.json
+C:\jobs\Api Sag\Api Sag\Api Sag\bin\Debug\net6.0\Api Sag.runtimeconfig.json
+C:\jobs\Api Sag\Api Sag\Api Sag\bin\Debug\net6.0\Api Sag.dll
+C:\jobs\Api Sag\Api Sag\Api Sag\bin\Debug\net6.0\Api Sag.pdb
+C:\jobs\Api Sag\Api Sag\Api Sag\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\jobs\Api Sag\Api Sag\Api Sag\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\jobs\Api Sag\Api Sag\Api Sag\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\jobs\Api Sag\Api Sag\Api Sag\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\jobs\Api Sag\Api Sag\Api Sag\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\jobs\Api Sag\Api Sag\Api Sag\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\jobs\Api Sag\Api Sag\Api Sag\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\jobs\Api Sag\Api Sag\Api Sag\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\jobs\Api Sag\Api Sag\Api Sag\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\jobs\Api Sag\Api Sag\Api Sag\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\jobs\Api Sag\Api Sag\Api Sag\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\jobs\Api Sag\Api Sag\Api Sag\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\jobs\Api Sag\Api Sag\Api Sag\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\jobs\Api Sag\Api Sag\Api Sag\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\jobs\Api Sag\Api Sag\Api Sag\obj\Debug\net6.0\staticwebassets.build.json
+C:\jobs\Api Sag\Api Sag\Api Sag\obj\Debug\net6.0\staticwebassets.development.json
+C:\jobs\Api Sag\Api Sag\Api Sag\obj\Debug\net6.0\scopedcss\bundle\Api Sag.styles.css
+C:\jobs\Api Sag\Api Sag\Api Sag\obj\Debug\net6.0\Api Sag.csproj.CopyComplete
+C:\jobs\Api Sag\Api Sag\Api Sag\obj\Debug\net6.0\Api Sag.dll
+C:\jobs\Api Sag\Api Sag\Api Sag\obj\Debug\net6.0\refint\Api Sag.dll
+C:\jobs\Api Sag\Api Sag\Api Sag\obj\Debug\net6.0\Api Sag.pdb
+C:\jobs\Api Sag\Api Sag\Api Sag\obj\Debug\net6.0\Api Sag.genruntimeconfig.cache
+C:\jobs\Api Sag\Api Sag\Api Sag\obj\Debug\net6.0\ref\Api Sag.dll
